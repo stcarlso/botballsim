@@ -29,3 +29,9 @@ Questions commonly asked by new users of JBSim can be found here. Suggestions fo
   * *The robot to be simulated looks very different from the available robots.*
 
     If the collision model is not drastically different, substituting a built-in design will still provide a good idea of how this robot might behave. See Creating a New Robot Design.
+
+  * *Not all of the simulator is visible on the screen.*
+
+    The program currently requires a high resolution (at least 1152x768) to be viewed in its entirety. Increase resolution if possible. Re-laying out the screen or moving some outputs around should fix this issue in the near future.
+
+If your problem is not listed on this page, check the KnownIssues section as well.
