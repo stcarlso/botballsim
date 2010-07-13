@@ -1,0 +1,11 @@
+#summary Guide for users looking to start off with JBSim.
+#labels Type-User,Featured
+
+= Quick Start =
+
+  # Download the latest version of JBSim from the [http://code.google.com/p/botballsim/downloads/list downloads] page. Look for an entry with the "Featured" label for the latest stable version.
+  # Extract the .zip file to any convenient location.
+  # If your system does not have Java installed, download and install it from the [http://java.sun.com/javase/downloads/index.jsp Sun website]. You probably want a JRE (Java Runtime Environment).
+  # Double-click on the extracted JAR file to launch the simulator.
+
+For advanced users, try the BuildingFromSource page.
